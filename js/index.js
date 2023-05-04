@@ -1,6 +1,6 @@
 'use strict';
 
-import header from "./modules/header.js";
+import header from "./modules/Header.js";
 import slider from "./modules/slider.js";
 
 const documentReady = () => {
